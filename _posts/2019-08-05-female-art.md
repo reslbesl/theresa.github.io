@@ -3,6 +3,8 @@ layout: post
 title: Gender equality and art auction prices
 subtitle: Does women's art sell for less?
 image: /img/female_arts.jpg
+tags: [gender equality]
+paginate: true
 ---
 
 I came across this great article in [The Economist](https://www.economist.com/books-and-arts/2019/05/16/why-womens-art-sells-at-a-discount) a while ago that highlighted a [new study](https://www.econstor.eu/bitstream/10419/182452/1/1031264264.pdf)

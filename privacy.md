@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data Privacy     
-subtitle: Blog posts about data privacy topics
+title: Privacy Research
+subtitle: I want you to know about
 use-site-title: true
 bigimg: /img/privacy.jpg
 ---
-List of privacy blog posts here
+A series of posts written by me about data privacy and privacy engineering topics
 
 Photo by Pixabay from Pexels

@@ -4,7 +4,7 @@
 title: Theresa Stadler
 
 # Short description of your site
-description: "Blog and about"
+description: "Things I want the world to know about"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,9 +20,10 @@ description: "Blog and about"
 
 # List of links in the navigation bar
 navbar-links:
-  Privacy Research: "privacy"
-  Equality: "feminism"
-  About Me: "about"
+  Privacy: "privacy"
+  Articles: "articles"
+  Python: "python"
+  About: "about"
   Links:
     - EPFL SPRING Lab: "https://spring.epfl.ch/en/research/"
     - Privitar: "https://www.privitar.com/"
@@ -105,7 +106,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 30
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -207,8 +208,9 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
+  - octopress-paginate
+  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

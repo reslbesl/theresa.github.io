@@ -1,0 +1,87 @@
+---
+layout: page
+title: Articles
+subtitle: I want you to know about
+use-site-title: true
+bigimg: /img/casual-diversity.jpg
+---
+<p>
+    A series of hort blog posts that contain links to newspaper articles that summarise scientific articles on gender equality issues, the risks of data-driven decision-making, and related social science topics.
+
+    They are all articles I would like to highlight because I think they provide a helpful contribution to the gender equality debate.
+
+    I don't give much detail on each study because I think that the articles that are linked do a much better job at summarising the findings than I could do but I do try to explain why they are particularly interesting to me.
+
+</p>
+
+<div class="posts-list">
+    {% for post in paginator.posts %}
+    <article class="post-preview">
+        <a href="{{ post.url | relative_url }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">
+                {{ post.subtitle }}
+            </h3>
+            {% endif %}
+        </a>
+
+        <p class="post-meta">
+            Posted on {{ post.date | date: "%B %-d, %Y" }}
+        </p>
+
+        <div class="post-entry-container">
+            {% if post.image %}
+            <div class="post-image">
+                <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image | relative_url }}">
+                </a>
+            </div>
+            {% endif %}
+            <div class="post-entry">
+                {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+                {% assign excerpt_word_count = post.excerpt | number_of_words %}
+                {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+                <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+                {% endif %}
+            </div>
+        </div>
+
+        {% if post.tags.size > 0 %}
+        <div class="blog-tags">
+            Tags:
+            {% if site.link-tags %}
+            {% for tag in post.tags %}
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% else %}
+            {{ post.tags | join: ", " }}
+            {% endif %}
+        </div>
+        {% endif %}
+
+    </article>
+    {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+
+<p>
+    Photo by mentatdgt from Pexels
+</p>
+
+

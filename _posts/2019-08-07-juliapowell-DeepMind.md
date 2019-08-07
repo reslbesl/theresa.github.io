@@ -2,7 +2,6 @@
 layout: post
 title: Predictive models in health care
 subtitle: The sober truth behind the hype around Google DeepMind's predictive health care systems
-image: /img/female_arts.jpg
 tags: [data-driven decision-making]
 ---
 I highly recommend reading the brilliant [Julia Powell's take](https://onezero.medium.com/deepminds-latest-a-i-health-breakthrough-has-some-problems-5cd14e2c77ef) 

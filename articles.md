@@ -15,6 +15,11 @@ Gender equality
 
 [Does women's art sell for less?](/2019-08-05-female-art/)
 
+Data-driven decision-making
+---
+
+[The sober truth behind the hype around predictive models in healthcare](/2019-08-07-juliapowell-DeepMind/)
+
 
 *Photo by mentatdgt from Pexels*
 

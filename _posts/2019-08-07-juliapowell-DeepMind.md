@@ -17,3 +17,5 @@ It's a really strong piece where she raises a lot of good points, from differenc
 the lack of transparency and explainability, and the consequences this might have for patients' wellbeing. 
 
 Enjoy reading!
+
+*Photo by Pixabay from Pexels*

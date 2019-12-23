@@ -20,9 +20,8 @@ description: "Things I want the world to know about"
 
 # List of links in the navigation bar
 navbar-links:
-  Privacy: "privacy"
+  Privacy Research: "privacy"
   Articles: "articles"
-  Python: "python"
   About: "about"
   Links:
     - EPFL SPRING Lab: "https://spring.epfl.ch/en/research/"

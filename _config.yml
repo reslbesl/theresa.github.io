@@ -1,3 +1,6 @@
+# Credits: Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
 # --- General options --- #
 
 # Name of website
@@ -61,17 +64,6 @@ social-network-links:
   github: reslbesl
   twitter: thsStadler
   linkedin: theresa-stadler-66b04912b
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:

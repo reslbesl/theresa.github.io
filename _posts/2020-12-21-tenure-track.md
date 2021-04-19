@@ -2,7 +2,7 @@
 layout: post
 title: The baby penalty
 subtitle: How gender blind policies discriminate against female tenure track candidates
-image: /img/healthcare.jpg
+image: /img/mother_working.jpg
 tags: [gender equality]
 ---
 [Mary Ann Mason](https://www.law.berkeley.edu/our-faculty/faculty-sites/mary-ann-mason/) has spent more than a decade studying why until today there is such a large gender imbalance at the topf of the academic hierarchy. 
@@ -24,4 +24,4 @@ If it fails to do so, it might even exacerbate the problems it is trying to solv
 
 More such stories can be found in "Invisible Women" by Caroline Criado Perez.
    
-*Photo by Pixabay from Pexels*
+*Photo by William Fortunato from Pexels*

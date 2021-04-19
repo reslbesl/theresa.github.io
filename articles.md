@@ -15,6 +15,8 @@ Gender equality
 
 [Does women's art sell for less?](/2019-08-05-female-art/)
 
+[How gender-blind policies discriminate against female tenure track candidates](/2020-12-21-tenure-track/)
+
 Data-driven decision-making
 ---
 

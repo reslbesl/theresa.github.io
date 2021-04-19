@@ -3,17 +3,44 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am currently a PhD student at the [SPRING](https://www.epfl.ch/labs/spring/) Lab at EPFL supervised by Carmela Troncoso.
+I am a PhD Research Assistant at the [SPRING](https://www.epfl.ch/labs/spring/) Lab at EPFL (Switzerland) led by [Carmela Troncoso](https://scholar.google.com/citations?hl=en&user=sMkt3SgAAAAJ).
 
-My research centers  around questions like: What are the right techniques to assess *privacy risks* in different data sharing scenarios?
-How can we measure private information leakage from generative and predictive machine learning models? 
+My research focuses primarily on the privacy aspects of large-scale data processing systems centred around questions such as:
+How to evaluate the privacy properties of opaque data processing systems? What are the privacy limits of machine learning-based applications? What learning tasks are solvable under good privacy and good utility simultaneously?
 
-Before I joined the amazing SPRING Lab, I worked as a Privacy Researcher for Privitar, a London-based startup using cryptographic and statistical techniques to open up data for safe secondary use, without violating individual privacy.
+Before joining the SPRING Lab, I previously worked as a privacy researcher for [Privitar](https://www.privitar.com) a London-based scale-up. Privitar develops enterprise software that implements privacy-enhancing technologies and aims to makes these technologies available to organisations at scale.
 
-My research there focused on improving existing privacy-enhancing technologies such as Differential Privacy and developing new algorithms for applications such as disclosure risk assessment, secure data aggregation or safe data linkage.
+I hold a Master's degree in Neural Information Processing (Biomathematics) from the University of Tübingen (Germany).
+During my undergraduate and graduate studies I conducted research in Applied Machine Learning under, amongst others, [Philipp Berens](https://scholar.google.com/citations?user=lPQLk3QAAAAJ&hl=en) and [Mathias Bethge](https://scholar.google.com/citations?hl=en&user=0z0fNxUAAAAJ).
 
-As part of my role, I conducted consulting work for a large telecommunications company and a major bank.
+Education
+---
+- PhD in Engineering, Ècole Polytechnique Fédéral de Lausanne (Switzerland), 2019 - Today
+- Master of Science, University Tübingen (Germany), 2014-2016
+- Bachelor of Science, University Erlangen (Germany), 2011-2014
 
-Before that I was a computational neuroscientist, developing statistical models to understand visual information processing in the mammalian visual system.
+Work Experience
+---
+- Research Scientist, Privitar (London, United Kingdom), 2016-2019
 
-I graduated with an MSc in Neural Information Processing from the International Graduate Centre for Neuroscience at the University of Tübingen and have a background in biomathematics and applied statistics.
+Academic Service
+---
+- Program Commitee Member PETS 2021, 2020, 2019
+- Invited Reviewer ICLR 2021 Workshop on Synthetic Data Generation: Quality, Privacy, Bias
+- External Reviewer CCS 2019
+
+Awards & Grants
+---
+- Graduate Grant, Studienstiftung des Deutschen Volkes, 2011-2016
+
+Invited Talks
+---
+- "Synthetic Data - A Privacy Mirage", Tech Talk at the Brussels Privacy Hub, 2021
+- "Why are Organisations Slow to Adopt PETs? Differential Privacy as a Case Study", EPFL IC Summer Research Institute, 2018 - [Link](https://suri.epfl.ch/2018/)   
+
+Patents
+---
+"Computer-implemented privacy engineering systens and method", Jason Derek McFall, Charles Codman Cabot, Timothy James Moran, Kieron Francois Pascal Guinamard, Vladimir Michael Eatwell, Benjamin Thomas Pickering, Paul David Mellor, Theresa Stadler, Andrei Petre, Christopher Andrew Smith, Anthony Jason Du Preez, Igor Vujosevic, George Danezis, US Patent Application, Singapore Granted Patent, 2017
+
+"Data product release method or system", Charles Codman Cabot, Kieron Francois Pascal Guinamard, Jason Derek McFall, Pierre-andre Maugis, Page Hector, Benjamin Thomas Pickering, Theresa Stadler, Jo-anne Tay, Suzanne Weller, US Patent Application, 2018
+

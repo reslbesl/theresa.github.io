@@ -4,32 +4,22 @@
 title: Theresa Stadler
 
 # Short description of your site
-description: "Things I want the world to know about"
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
+description: "Privacy Researcher"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Privacy Research: "privacy"
-  Articles: "articles"
+  Research: "research"
+  Other Interests: "articles"
   About: "about"
   Links:
-    - EPFL SPRING Lab: "https://spring.epfl.ch/en/research/"
+    - SPRING Lab: "https://spring.epfl.ch/en/research/"
     - Privitar: "https://www.privitar.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/icon.png"
+avatar: "/img/PortraitCropped.JPG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter

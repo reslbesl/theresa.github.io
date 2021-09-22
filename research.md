@@ -24,7 +24,7 @@ This is one example that shows how important it is to carefully evaluate the pri
 
 **Articles**
 
-"Synthetic Data - A Privacy Mirage", Theresa Stadler, Bristena Oprisanu, Carmela Troncoso, 2020, arXiv - [Link](https://arxiv.org/abs/2011.07018)
+"Synthetic Data - Anonymisation Groundhog Day", Theresa Stadler, Bristena Oprisanu, Carmela Troncoso, 2022, USENIX Security - [Link](https://arxiv.org/abs/2011.07018)
 
 **Invited Talks**
 

@@ -50,7 +50,7 @@ Publications
 
 **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso: Preliminary Analysis of Potential Harms in the Luca Tracing  System | arXiv preprint, arXiv:2103.11958 (2021).
 
-C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al.: Decentralized privacy-preserving proximity tracing |arXiv preprint arXiv:2005.12273 (2020).
+C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al.: Decentralized privacy-preserving proximity tracing | arXiv preprint arXiv:2005.12273 (2020).
 
 M. Salathé, C. Althaus, N. Anderegg, D. Antonioli, T. Ballouz, E. Bugnon, 
 S. Čapkun, D. Jackson, Kim SI, J. Larus, N. Low, W. Lueks, D. Menges, C. Moullet, M. Payer, J. Riou, **T. Stadler**, C. Troncoso, 

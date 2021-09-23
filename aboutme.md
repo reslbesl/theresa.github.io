@@ -46,18 +46,16 @@ Patents
 
 Publications
 ---
-**T. Stadler**, B. Oprisanu, C. Troncoso: Synthetic Data – Anonymisation Groundhog Day | USENIX Security Symposium (2022).
+"Synthetic Data – Anonymisation Groundhog Day", **T. Stadler**, B. Oprisanu, C. Troncoso, USENIX Security Symposium (2022).
 
-**T. Stadler**, W. Lueks, K. Kohls, C. Troncoso: Preliminary Analysis of Potential Harms in the Luca Tracing  System | arXiv preprint, arXiv:2103.11958 (2021).
+"Preliminary Analysis of Potential Harms in the Luca Tracing  System", **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint, arXiv:2103.11958 (2021).
 
-C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al.: Decentralized privacy-preserving proximity tracing | arXiv preprint arXiv:2005.12273 (2020).
+"Decentralized privacy-preserving proximity tracing", C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint arXiv:2005.12273 (2020).
 
-M. Salathé, C. Althaus, N. Anderegg, D. Antonioli, T. Ballouz, E. Bugnon, 
-S. Čapkun, D. Jackson, Kim SI, J. Larus, N. Low, W. Lueks, D. Menges, C. Moullet, M. Payer, J. Riou, **T. Stadler**, C. Troncoso, 
-E. Vayena, V. von Wyl: Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland. | Swiss Med Weekly. 2020. 3. (2020).
+"Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland.", M. Salathé, **T. Stadler**, C. Troncoso, et al., Swiss Med Weekly 2020. 3. (2020).
 
-V. von Wyl, S. Bonhoeffer, E. Bugnion, A. Puhan Milo, M. Salathé, **T. Stadler**, C. Troncoso, E. Vayena, N. Low: A research agenda for digital proximity tracing apps. | Swiss Medical Weekly 2020. (2020).
+"A research agenda for digital proximity tracing apps.", V. von Wyl, S. Bonhoeffer, E. Bugnion, A. Puhan Milo, M. Salathé, **T. Stadler**, C. Troncoso, E. Vayena, N. Low, Swiss Medical Weekly 2020. (2020).
 
-**T. Stadler**, AO. O’Reilly, A. Lampert: Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7. | Journal of Biological Chemistry Vol. 290, Issue 10 (2015).
+"Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7.", **T. Stadler**, AO. O’Reilly, A. Lampert, Journal of Biological Chemistry Vol. 290, Issue 10 (2015).
 
 

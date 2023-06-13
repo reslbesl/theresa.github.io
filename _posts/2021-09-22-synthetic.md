@@ -7,7 +7,7 @@ tags: [privacy]
 ---
 
 I'm very happy to share that our work that evaluates synthetic data sharing as a privacy mechanism titled "Synthetic Data- Anonymisation Groundhog Day" was accepted for publication at USENIX Security'22.
-The final version is also available (with some minor editorial differences) on [arXiv](https://arxiv.org/abs/2011.07018). Below, I shortly summarise our key findings and conclusions.
+The final version can be found [here](https://www.usenix.org/system/files/sec22-stadler.pdf). Below, I shortly summarise our key findings and conclusions.
 
 A short summary
 -

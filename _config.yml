@@ -7,16 +7,16 @@
 title: Theresa Stadler
 
 # Short description of your site
-description: "Privacy Researcher"
+description: "Research in Data Privacy"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Other Interests: "articles"
   About: "about"
   Links:
+    - Google Scholar: "https://scholar.google.com/citations?user=5Nf67DkAAAAJ&hl=en"
     - SPRING Lab: "https://spring.epfl.ch/en/research/"
     - Privitar: "https://www.privitar.com/"
 

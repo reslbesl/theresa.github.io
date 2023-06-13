@@ -23,39 +23,47 @@ Work Experience
 ---
 - Research Scientist, Privitar (London, United Kingdom), 2016-2019
 
-Academic Service
+Academic Service & Invited Reviews
 ---
-- Program Commitee Member PETS 2021, 2020, 2019
+- Program Commitee Member PETS 2023, 2021, 2020, 2019
+- Invited Reviewer NeurIPS 2021 Workshop on Privacy in Machine Learning (PriML 2021)
 - Invited Reviewer ICLR 2021 Workshop on Synthetic Data Generation: Quality, Privacy, Bias
 - External Reviewer CCS 2019
+- Invited Reviewer "Rethinking data and balancing digital power" by the Ada Lovelace Institute 2022 - [Link](https://www.adalovelaceinstitute.org/report/rethinking-data/)
 
 Awards & Grants
 ---
 - Graduate Grant, Studienstiftung des Deutschen Volkes, 2011-2016
 
-Invited Talks
+Featured Invited Talks
 ---
+- "Looking beyond the EU data strategy: Where next for data use and regulation?", Panel discussion at CPDP, 2023
+- "Synthetic Data as a Privach Mechanism - A cautionary tale", Invited lecture in the "Health Sciences and Technology" program at MIT
 - "Synthetic Data - A Privacy Mirage", Tech Talk at the Brussels Privacy Hub, 2021
 - "Why are Organisations Slow to Adopt PETs? Differential Privacy as a Case Study", EPFL IC Summer Research Institute, 2018 - [Link](https://suri.epfl.ch/2018/)   
 
 Patents
 ---
-"Computer-implemented privacy engineering systens and method", Jason Derek McFall, Charles Codman Cabot, Timothy James Moran, Kieron Francois Pascal Guinamard, Vladimir Michael Eatwell, Benjamin Thomas Pickering, Paul David Mellor, Theresa Stadler, Andrei Petre, Christopher Andrew Smith, Anthony Jason Du Preez, Igor Vujosevic, George Danezis, US Patent Application, Singapore Granted Patent, 2017
+"Computer-implemented privacy engineering systens and method", McFall J.D., Cabot, C.C., ..., **Stadler, T.**, Petre, A., Smith, C.A., Du Preez, A.J., Vujosevic, I.,  Danezis, G., US Patent Application, Singapore Granted Patent (2017)
 
-"Data product release method or system", Charles Codman Cabot, Kieron Francois Pascal Guinamard, Jason Derek McFall, Pierre-andre Maugis, Page Hector, Benjamin Thomas Pickering, Theresa Stadler, Jo-anne Tay, Suzanne Weller, US Patent Application, 2018
+"Data product release method or system", Cabot, C.C., Guinamard, K.F.P, ... **Stadler, T.**, Tay, J., Weller, S., US Patent Application (2018)
 
 Publications
 ---
-"Synthetic Data – Anonymisation Groundhog Day", **T. Stadler**, B. Oprisanu, C. Troncoso, USENIX Security Symposium (2022).
+["Why the search for a privacy-preserving data sharing mechanism is failing."]((https://www.nature.com/articles/s43588-022-00236-x)) **Stadler, T.** & Troncoso, C., Nature Computational Science (2022) - [Link]
 
-"Preliminary Analysis of Potential Harms in the Luca Tracing  System", **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint, arXiv:2103.11958 (2021).
+["Synthetic Data – Anonymisation Groundhog Day"](https://www.usenix.org/system/files/sec22-stadler.pdf), **Stadler, T.**, Oprisanu, B., Troncoso, C., USENIX Security Symposium (2022) 
 
-"Decentralized privacy-preserving proximity tracing", C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint arXiv:2005.12273 (2020).
+["Deploying decentralized, privacy-preserving proximity tracing"](https://dl.acm.org/doi/abs/10.1145/3524107), Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
 
-"Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland.", M. Salathé, **T. Stadler**, C. Troncoso, et al., Swiss Med Weekly 2020. 3. (2020).
+["Preliminary Analysis of Potential Harms in the Luca Tracing  System"](https://arxiv.org/pdf/2103.11958.pdf), **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
 
-"A research agenda for digital proximity tracing apps.", V. von Wyl, S. Bonhoeffer, E. Bugnion, A. Puhan Milo, M. Salathé, **T. Stadler**, C. Troncoso, E. Vayena, N. Low, Swiss Medical Weekly 2020. (2020).
+["Decentralized privacy-preserving proximity tracing"](https://arxiv.org/pdf/2005.12273), C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020) - [Link]()
 
-"Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7.", **T. Stadler**, AO. O’Reilly, A. Lampert, Journal of Biological Chemistry Vol. 290, Issue 10 (2015).
+["Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland."](https://www.medrxiv.org/content/10.1101/2020.09.07.20189274v3), M. Salathé, **T. Stadler**, C. Troncoso, et al., Swiss Med Weekly 2020. 3. (2020).
+
+["A research agenda for digital proximity tracing apps."](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/428474/3/smw_2020_20324.pdf), V. von Wyl, S. Bonhoeffer, E. Bugnion, A. Puhan Milo, M. Salathé, **T. Stadler**, C. Troncoso, E. Vayena, N. Low, Swiss Medical Weekly 2020. (2020).
+
+["Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7."](https://www.jbc.org/article/S0021-9258(19)46771-9/abstract), **T. Stadler**, AO. O’Reilly, A. Lampert, Journal of Biological Chemistry Vol. 290, Issue 10 (2015).
 
 

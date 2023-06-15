@@ -50,15 +50,15 @@ Patents
 
 Publications
 ---
-["Why the search for a privacy-preserving data sharing mechanism is failing."]((https://www.nature.com/articles/s43588-022-00236-x)) **Stadler, T.** & Troncoso, C., Nature Computational Science (2022)
+[Why the search for a privacy-preserving data sharing mechanism is failing.]((https://www.nature.com/articles/s43588-022-00236-x)) - **Stadler, T.** & Troncoso, C., Nature Computational Science (2022)
 
-["Synthetic Data – Anonymisation Groundhog Day"](https://www.usenix.org/system/files/sec22-stadler.pdf), **Stadler, T.**, Oprisanu, B., Troncoso, C., USENIX Security Symposium (2022) 
+[Synthetic Data – Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf) - **Stadler, T.**, Oprisanu, B., Troncoso, C., USENIX Security Symposium (2022) 
 
-["Deploying decentralized, privacy-preserving proximity tracing"](https://dl.acm.org/doi/abs/10.1145/3524107), Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
+[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107) - Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
 
-["Preliminary Analysis of Potential Harms in the Luca Tracing  System"](https://arxiv.org/pdf/2103.11958.pdf), **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
+[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf) - **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
 
-["Decentralized privacy-preserving proximity tracing"](https://arxiv.org/pdf/2005.12273), C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020) - [Link]()
+[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273) - C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020)
 
 ["Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland."](https://www.medrxiv.org/content/10.1101/2020.09.07.20189274v3), M. Salathé, **T. Stadler**, C. Troncoso, et al., Swiss Med Weekly 2020. 3. (2020).
 

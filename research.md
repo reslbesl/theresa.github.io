@@ -24,11 +24,12 @@ This is one example that shows how important it is to carefully evaluate the pri
 
 **Articles**
 
-"Synthetic Data - Anonymisation Groundhog Day", **Theresa Stadler**, Bristena Oprisanu, Carmela Troncoso, 2022, USENIX Security - [Link](https://www.usenix.org/system/files/sec22-stadler.pdf)
+[Synthetic Data - Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf) - **Stadler, T.**, Oprisanu, B. & Troncoso, C., USENIX Security (2022)
 
-"Why the search for a privacy-preserving data sharing mechanism is failing", Theresa Stadler, Carmela Troncoso, 2022, Natural Computational Science - [Link](https://www.nature.com/articles/s43588-022-00236-x)
+[Why the search for a privacy-preserving data sharing mechanism is failing](https://www.nature.com/articles/s43588-022-00236-x) - **Stadler,T.** & Troncoso, C., Natural Computational Science (2022)
 
 **Impact**
+
 Our paper on evaluating synthetic data as a privacy mechanism has already had a significant impact. Upon request, I have presented it to practitioners (Financial Conduct Authority, UK), data protection bodies (EDPS, EU level; CNIL, FR),
 and academics in diverse disciplines, (e.g, Harvard Privacy Tools Group, Microsoft Research Cambridge, the Alan Turing Institute, or the "Health Sciences and Technology" program at MIT).
 Furthermore, the framework implmentation is in use by multiple industrial partners.
@@ -50,11 +51,12 @@ Beyond informing our research, our work has had a considerable impact on the des
 
 **Articles**
 
-"Preliminary Analysis of Potential Harms in the Luca Tracing System", **Theresa Stadler**, Wouter Lueks, Katharina Kohls, and Carmela Troncoso, 2021, arXiv - [Link](https://arxiv.org/abs/2103.11958)
+[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf) - **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
 
-"Privacy and Security Risk Evaluation of Digital Proximity Tracing Systems", The DP-3T Project, 2020, DP-3T GitHub - [Link](https://github.com/DP-3T/documents/blob/master/Security%20analysis/Privacy%20and%20Security%20Attacks%20on%20Digital%20Proximity%20Tracing%20Systems.pdf)
+[Privacy and Security Risk Evaluation of Digital Proximity Tracing Systems](https://github.com/DP-3T/documents/blob/master/Security%20analysis/Privacy%20and%20Security%20Attacks%20on%20Digital%20Proximity%20Tracing%20Systems.pdf) - The DP-3T Project, DP-3T GitHub (2020) 
 
 **Impact**
+
 Our work on the LUCA tracing system has received a lot of attention by the German media. Upon request, I have given interviews on the national news of both German public broadcasting stations (tagesthemen, ARD and heute journal, ZDF) and a long-format podcast.
 
 "Warum wollen plötzlich alle LUCA?", Eva Wolfangel, Die Zeit, 2021 - [Link](https://www.zeit.de/digital/datenschutz/2021-03/corona-app-luca-kontaktverfolgung-einsatz-umstritten-kontakte-politik-lobbyismus)
@@ -71,8 +73,10 @@ At Privitar, I worked with a large number of organisations, across sectors and i
 
 
 **Articles**
+[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107) - Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
 
-"Decentralized privacy-preserving proximity tracing", Carmela Troncoso, Mathias Payer, Jean-Pierre Hubaux, Marcel Salathé, James Larus, Edouard Bugnion, Wouter Lueks, *Theresa Stadler*, et al., 2020, arXiv - [Link](https://arxiv.org/pdf/2005.12273)
+[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273) - C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020)
+
 
 
 **Patents**
@@ -83,6 +87,7 @@ At Privitar, I worked with a large number of organisations, across sectors and i
 
 
 **Impact**
+
 The work of the DP3T consortium had an immense impact world-wide during the COVID19 pandemic.  
 
 "EU privacy experts push a decentralised approach to COVID-19 contacts tracing", TechCrunch, 2020 - [Link](https://techcrunch.com/2020/04/06/eu-privacy-experts-push-a-decentralized-approach-to-covid-19-contacts-tracing/)

@@ -44,27 +44,27 @@ Featured Invited Talks
 
 Patents
 ---
-"Computer-implemented privacy engineering systens and method", McFall J.D., Cabot, C.C., ..., **Stadler, T.**, Petre, A., Smith, C.A., Du Preez, A.J., Vujosevic, I.,  Danezis, G., US Patent Application, Singapore Granted Patent (2017)
+[Computer-implemented privacy engineering systens and method](https://patents.google.com/patent/US20200327252A1/en). McFall J.D., Cabot, C.C., ..., *Stadler, T.* et al., US Patent Application, Singapore Granted Patent (2017)
 
-"Data product release method or system", Cabot, C.C., Guinamard, K.F.P, ... **Stadler, T.**, Tay, J., Weller, S., US Patent Application (2018)
+[Method or system for querying a sensitive dataset](https://patents.google.com/patent/US20220277097A1/en). Cabot, C.C., Guinamard, K.F.P, ... *Stadler, T.* et al., US Patent Application (2018)
 
 Publications
 ---
 
-*Stadler, T.*, & Troncoso, C. (2022). [Why the search for a privacy-preserving data sharing mechanism is failing.](https://www.nature.com/articles/s43588-022-00236-x). Nature Computational Science
+[Why the search for a privacy-preserving data sharing mechanism is failing](https://www.nature.com/articles/s43588-022-00236-x). *Stadler, T.*, & Troncoso, C., Nature Computational Science (2022)
 
-[Synthetic Data – Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf) - **Stadler, T.**, Oprisanu, B., Troncoso, C., USENIX Security Symposium (2022) 
+[Synthetic data – Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf). *Stadler, T.*, Oprisanu, B., & Troncoso, C., USENIX Security (2022)
 
-[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107) - Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
+[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107). Troncoso, C., Bogdanov, D., Bugnion, E., ... *Stadler, T.* et al., Communications of the ACM (2022)
 
-[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf) - **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
+[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf). *Stadler, T.*, Lueks, W., Kohls, K., Troncoso, C., arXiv preprint (2021)
 
-[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273) - C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020)
+[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273). Troncoso, C., Payer, M., Hubaux, J.P., Salathé, M., Larus, J., Bugnion, E., Lueks, W., *Stadler, T.* et al., arXiv preprint (2020)
 
-["Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland."](https://www.medrxiv.org/content/10.1101/2020.09.07.20189274v3), M. Salathé, **T. Stadler**, C. Troncoso, et al., Swiss Med Weekly 2020. 3. (2020).
+[Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland](https://www.medrxiv.org/content/10.1101/2020.09.07.20189274v3). Salathé, M., Althaus, C., Anderegg, N., ... *Stadler, T.* et al., Swiss Medical Weekly (2020)
 
-["A research agenda for digital proximity tracing apps."](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/428474/3/smw_2020_20324.pdf), V. von Wyl, S. Bonhoeffer, E. Bugnion, A. Puhan Milo, M. Salathé, **T. Stadler**, C. Troncoso, E. Vayena, N. Low, Swiss Medical Weekly 2020. (2020).
+[A research agenda for digital proximity tracing apps.](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/428474/3/smw_2020_20324.pdf), Von Wyl, V., Bonhoeffer, S., Bugnion, E., Puhan, M. A., Salathé, M., *Stadler, T.* et al., Swiss Medical Weekly. (2020)
 
-["Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7."](https://www.jbc.org/article/S0021-9258(19)46771-9/abstract), **T. Stadler**, AO. O’Reilly, A. Lampert, Journal of Biological Chemistry Vol. 290, Issue 10 (2015).
+[Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7.](https://www.jbc.org/article/S0021-9258(19)46771-9/abstract), *Stadler, T.*, O'Reilly, A. O., & Lampert, A., Journal of Biological Chemistry (2015)
 
 

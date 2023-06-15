@@ -13,6 +13,7 @@ A good privacy definition ideally should capture what privacy means to us but at
 
 On a very high level, the goal of my research is to find such a criterion, that strikes the right balance between interpretability and technical precision, is generalisable across data-processing systems but simultaneously adaptable to context-specific privacy concerns.
 
+
 Design of Privacy Evaluation Frameworks
 ---
 To achieve this goal we develop novel frameworks to reason about privacy in large-scale data processing systems and aim to improve existing approaches to evaluate privacy risk.
@@ -73,6 +74,7 @@ At Privitar, I worked with a large number of organisations, across sectors and i
 
 
 **Articles**
+
 [Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107) - Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
 
 [Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273) - C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020)

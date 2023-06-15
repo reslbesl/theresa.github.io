@@ -50,7 +50,8 @@ Patents
 
 Publications
 ---
-[Why the search for a privacy-preserving data sharing mechanism is failing.]((https://www.nature.com/articles/s43588-022-00236-x)) - **Stadler, T.** & Troncoso, C., Nature Computational Science (2022)
+
+*Stadler, T.*, & Troncoso, C. (2022). [Why the search for a privacy-preserving data sharing mechanism is failing.](https://www.nature.com/articles/s43588-022-00236-x). Nature Computational Science
 
 [Synthetic Data – Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf) - **Stadler, T.**, Oprisanu, B., Troncoso, C., USENIX Security Symposium (2022) 
 

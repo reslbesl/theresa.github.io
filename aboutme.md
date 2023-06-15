@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a PhD Research Assistant at the [SPRING](https://www.epfl.ch/labs/spring/) Lab at EPFL (Switzerland) led by [Carmela Troncoso](https://scholar.google.com/citations?hl=en&user=sMkt3SgAAAAJ).
+I am a PhD Research Assistant at the [SPRING Lab](https://www.epfl.ch/labs/spring/) at EPFL (Switzerland) supervised by [Carmela Troncoso](https://scholar.google.com/citations?hl=en&user=sMkt3SgAAAAJ).
 
 My research focuses primarily on the privacy aspects of large-scale data processing systems centred around questions such as:
 How to evaluate the privacy properties of opaque data processing systems? What are the privacy limits of machine learning-based applications? What learning tasks are solvable under good privacy and good utility simultaneously?

@@ -23,11 +23,13 @@ Using our framework, we demonstrated that many of the claims made about the "abs
 
 This is one example that shows how important it is to carefully evaluate the privacy properties of data processing systems.
 
+
 **Articles**
 
-[Synthetic Data - Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf) - **Stadler, T.**, Oprisanu, B. & Troncoso, C., USENIX Security (2022)
+[Synthetic data – Anonymisation Groundhog Day](https://www.usenix.org/system/files/sec22-stadler.pdf). *Stadler, T.*, Oprisanu, B., & Troncoso, C., USENIX Security (2022)
 
-[Why the search for a privacy-preserving data sharing mechanism is failing](https://www.nature.com/articles/s43588-022-00236-x) - **Stadler,T.** & Troncoso, C., Natural Computational Science (2022)
+[Why the search for a privacy-preserving data sharing mechanism is failing](https://www.nature.com/articles/s43588-022-00236-x). *Stadler, T.*, & Troncoso, C., Nature Computational Science (2022)
+
 
 **Impact**
 
@@ -50,19 +52,21 @@ It helps us to understand how we reason about privacy in different types of syst
 
 Beyond informing our research, our work has had a considerable impact on the design of digital aids for pandemic containment. 
 
+
 **Articles**
 
-[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf) - **T. Stadler**, W. Lueks, K. Kohls, C. Troncoso, arXiv preprint (2021)
+[Preliminary Analysis of Potential Harms in the Luca Tracing  System](https://arxiv.org/pdf/2103.11958.pdf). *Stadler, T.*, Lueks, W., Kohls, K., Troncoso, C., arXiv preprint (2021)
 
 [Privacy and Security Risk Evaluation of Digital Proximity Tracing Systems](https://github.com/DP-3T/documents/blob/master/Security%20analysis/Privacy%20and%20Security%20Attacks%20on%20Digital%20Proximity%20Tracing%20Systems.pdf) - The DP-3T Project, DP-3T GitHub (2020) 
+
 
 **Impact**
 
 Our work on the LUCA tracing system has received a lot of attention by the German media. Upon request, I have given interviews on the national news of both German public broadcasting stations (tagesthemen, ARD and heute journal, ZDF) and a long-format podcast.
 
-"Warum wollen plötzlich alle LUCA?", Eva Wolfangel, Die Zeit, 2021 - [Link](https://www.zeit.de/digital/datenschutz/2021-03/corona-app-luca-kontaktverfolgung-einsatz-umstritten-kontakte-politik-lobbyismus)
+[Warum wollen plötzlich alle LUCA?](https://www.zeit.de/digital/datenschutz/2021-03/corona-app-luca-kontaktverfolgung-einsatz-umstritten-kontakte-politik-lobbyismus).Eva Wolfangel, Die Zeit (2021)
 
-"Luca vs. Datenschutz", SheLikesTech, NDR Podcast, 2021 - [Link](https://www.ndr.de/nachrichten/info/podcast4808.html)
+[Luca vs. Datenschutz](https://www.ndr.de/nachrichten/info/podcast4808.html). SheLikesTech, NDR Podcast (2021)
 
 
 Design of Privacy-Enhancing Technologies
@@ -75,36 +79,29 @@ At Privitar, I worked with a large number of organisations, across sectors and i
 
 **Articles**
 
-[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107) - Troncoso, C., Bogdanov, D., Bugnion, E., ... **Stadler, T.** & Veale, M., Communications of the ACM (2022)
+[Deploying decentralized, privacy-preserving proximity tracing](https://dl.acm.org/doi/abs/10.1145/3524107). Troncoso, C., Bogdanov, D., Bugnion, E., ... *Stadler, T.* et al., Communications of the ACM (2022)
 
-[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273) - C. Troncoso, M. Payer, J.-P. Hubaux, M. Salathé, J. Larus, E. Bugnion, W. Lueks, **T. Stadler** et al., arXiv preprint (2020)
-
+[Decentralized privacy-preserving proximity tracing](https://arxiv.org/pdf/2005.12273). Troncoso, C., Payer, M., Hubaux, J.P., Salathé, M., Larus, J., Bugnion, E., Lueks, W., *Stadler, T.* et al., arXiv preprint (2020)
 
 
 **Patents**
 
-"Computer-implemented privacy engineering systens and method", Jason Derek McFall, Charles Codman Cabot, Timothy James Moran, Kieron Francois Pascal Guinamard, Vladimir Michael Eatwell, Benjamin Thomas Pickering, Paul David Mellor, **Theresa Stadler** et al., US Patent Application, Singapore Granted Patent, 2017
+[Computer-implemented privacy engineering systens and method](https://patents.google.com/patent/US20200327252A1/en). McFall J.D., Cabot, C.C., ..., *Stadler, T.* et al., US Patent Application, Singapore Granted Patent (2017)
 
-"Data product release method or system", Charles Codman Cabot, Kieron Francois Pascal Guinamard, Jason Derek McFall, Pierre-andre Maugis, Page Hector, Benjamin Thomas Pickering, **Theresa Stadler**, Jo-anne Tay, Suzanne Weller, US Patent Application, 2018
+[Method or system for querying a sensitive dataset](https://patents.google.com/patent/US20220277097A1/en). Cabot, C.C., Guinamard, K.F.P, ... *Stadler, T.* et al., US Patent Application (2018)
 
 
 **Impact**
 
 The work of the DP3T consortium had an immense impact world-wide during the COVID19 pandemic.  
 
-"EU privacy experts push a decentralised approach to COVID-19 contacts tracing", TechCrunch, 2020 - [Link](https://techcrunch.com/2020/04/06/eu-privacy-experts-push-a-decentralized-approach-to-covid-19-contacts-tracing/)
+[EU privacy experts push a decentralised approach to COVID-19 contacts tracing](https://techcrunch.com/2020/04/06/eu-privacy-experts-push-a-decentralized-approach-to-covid-19-contacts-tracing/). TechCrunch (2020)
 
-"Germany flips to Apple-Google approach on smartphone contact tracing", Reuters, 2020 - [Link](https://www.reuters.com/article/us-health-coronavirus-europe-tech-idUSKCN22807J)
+[Germany flips to Apple-Google approach on smartphone contact tracing](https://www.reuters.com/article/us-health-coronavirus-europe-tech-idUSKCN22807J). Reuters (2020)
 
-"Coronavirus apps: the risk of slipping into a surveillance state", Financial Times, 2020 - [Link](https://www.ft.com/content/d2609e26-8875-11ea-a01c-a28a3e3fbd33)
+[Coronavirus apps: the risk of slipping into a surveillance state](https://www.ft.com/content/d2609e26-8875-11ea-a01c-a28a3e3fbd33). Financial Times (2020)
 
-"Keine App mehr, uns alle zu tracken", Die Zeit, 2020 - [Link](https://www.zeit.de/digital/datenschutz/2020-04/datenschutz-corona-app-bundesregierung-probleme)
-
-
-
-
- 
-
+[Keine App mehr, uns alle zu tracken](https://www.zeit.de/digital/datenschutz/2020-04/datenschutz-corona-app-bundesregierung-probleme). Die Zeit (2020)
 
 
 *Photo by Pixabay from Pexels*

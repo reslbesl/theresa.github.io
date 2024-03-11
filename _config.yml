@@ -17,8 +17,8 @@ navbar-links:
   About: "about"
   Links:
     - Google Scholar: "https://scholar.google.com/citations?user=5Nf67DkAAAAJ&hl=en"
+    - LinkedIn: "https://www.linkedin.com/in/theresa-stadler-66b04912b/"
     - SPRING Lab: "https://spring.epfl.ch/en/research/"
-    - Privitar: "https://www.privitar.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -192,6 +192,20 @@ plugins:
   - jekyll-sitemap
   - octopress-paginate
   - jekyll-paginate
+  - 'jekyll/scholar'
+
+scholar:
+  style: libraries/ieee-with-url.csl
+  locale: en
+
+  sort_by: year,timestamp
+  order: descending
+  bibliography_list_tag: ul
+
+  source: _bibliography
+  repository: assets/docs
+  bibliography: "**/*.bib"
+  bibliography_template: bibliography
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

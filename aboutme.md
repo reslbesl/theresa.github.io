@@ -12,7 +12,11 @@ My work has been featured on multiple [national media outlets](https://www.zeit.
 Before joining EPFL, I previously worked as a privacy researcher for Privitar, a London-based scale-up, where I developed enterprise software that implements privacy-enhancing technologies and aims to makes these technologies available to organisations at scale.
 I hold a Master's degree in Neural Information Processing (Biomathematics) from the University of Tübingen (Germany).
 
-Education
+
+{: .box-note}
+**[CV](/img/CV202401_Stadler.pdf)** 
+
+<!-- Education
 ---
 - PhD in Engineering, EPFL, Switzerland, (2019 - Today)
 - Master of Science, University Tübingen, Germany (2014-2016)
@@ -78,7 +82,7 @@ Publications
 [A research agenda for digital proximity tracing apps.](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/428474/3/smw_2020_20324.pdf), Von Wyl, V., Bonhoeffer, S., Bugnion, E., Puhan, M. A., Salathé, M., *Stadler, T.* et al., Swiss Medical Weekly. (2020)
 
 
-[Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7.](https://www.jbc.org/article/S0021-9258(19)46771-9/abstract), *Stadler, T.*, O'Reilly, A. O., & Lampert, A., Journal of Biological Chemistry (2015)
+[Erythromelalgia Mutation Q875E Stabilizes the Activated State of Sodium Channel Nav1.7.](https://www.jbc.org/article/S0021-9258(19)46771-9/abstract), *Stadler, T.*, O'Reilly, A. O., & Lampert, A., Journal of Biological Chemistry (2015) -->
 
 
 

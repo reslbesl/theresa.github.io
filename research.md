@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Reasoning about Privacy in Large-Scale Data Processing Systems
 use-site-title: true
-bigimg: /img/privacy.jpg
+# bigimg: /img/privacy.jpg
 ---
 
 What does it mean to protect privacy in large-scale data processing systems?

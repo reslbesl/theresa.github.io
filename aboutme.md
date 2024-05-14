@@ -10,11 +10,11 @@ What are the privacy limits of machine learning-based applications? What learnin
 My work has been featured on multiple [national media outlets](https://www.zeit.de/digital/datenschutz/2021-03/corona-app-luca-kontaktverfolgung-einsatz-umstritten-kontakte-politik-lobbyismus) and continues to [inform policy makers](https://edps.europa.eu/system/files/2021-12/techsonar_2021-2022_report_en.pdf) on a national and European level.
 
 Before joining EPFL, I previously worked as a privacy researcher for Privitar, a London-based scale-up, where I developed enterprise software that implements privacy-enhancing technologies and aims to makes these technologies available to organisations at scale.
-I hold a Master's degree in Neural Information Processing (Biomathematics) from the University of Tübingen (Germany).
+I hold a Master's degree in Computational Neuroscience (Biomathematics) from the University of Tübingen (Germany).
 
 
 {: .box-note}
-**[CV](/img/CV202401_Stadler.pdf)** 
+**[Download CV](/img/CVStadler_202405.pdf)** 
 
 <!-- Education
 ---
